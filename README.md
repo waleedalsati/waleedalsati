@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Waleed</h1>
 <h3 align="center">Flutter Developer • Information Engineer • Data Analyst</h3>
 
@@ -59,5 +64,5 @@ Passionate about building scalable mobile applications, creating modern UI/UX ex
 ## 📫 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/waleed-al-sati-a46b2638b?utm_source=share_via&utm_content=profile&utm_medium=member_android
-- GitHub: https://github.com/YOUR_USERNAME
+- GitHub:https://github.com/waleedalsati
 - Email: alsatywlyd54@gmail.com
